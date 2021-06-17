@@ -1,0 +1,16 @@
+.container{ 
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 10% auto;
+    width: 40%;
+}
+
+.scorebar{
+    border: solid 1px;
+    height: 5px;
+    border-radius: 4px;
+    margin: 8px 2px;
+}

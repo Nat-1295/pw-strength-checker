@@ -1,0 +1,253 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`generate a snapshot should match the snapshot 1`] = `
+<section
+  class="ant-layout"
+>
+  <div
+    class="ant-row ant-row-middle"
+  >
+    <div
+      align="middle"
+      class="ant-col container ant-col-xs-12"
+    >
+      <div
+        class="ant-col ant-col-xs-9"
+        style="font-size: 20px; margin-bottom: 8%;"
+      >
+        <b>
+          Is your password strong enough?
+        </b>
+      </div>
+      <div
+        class="ant-col ant-col-xs-20"
+      >
+        <span
+          class="ant-input-affix-wrapper ant-input-password"
+          style="border: 1px solid;"
+        >
+          <input
+            action="click"
+            class="ant-input"
+            placeholder="Type a password"
+            type="password"
+            value=""
+          />
+          <span
+            class="ant-input-suffix"
+          >
+            <span
+              class="ant-input-password-icon"
+            >
+              Show
+            </span>
+          </span>
+        </span>
+      </div>
+      <div
+        class="ant-row ant-row-center"
+        xs="24"
+      >
+        <div
+          class="ant-col ant-col-xs-4"
+        >
+          <div
+            class="scorebar"
+            style="background: gray;"
+          />
+        </div>
+        <div
+          class="ant-col ant-col-xs-4"
+        >
+          <div
+            class="scorebar"
+            style="background: gray;"
+          />
+        </div>
+        <div
+          class="ant-col ant-col-xs-4"
+        >
+          <div
+            class="scorebar"
+            style="background: gray;"
+          />
+        </div>
+        <div
+          class="ant-col ant-col-xs-4"
+        >
+          <div
+            class="scorebar"
+            style="background: gray;"
+          />
+        </div>
+        <div
+          class="ant-col ant-col-xs-4"
+        >
+          <div
+            class="scorebar"
+            style="background: gray;"
+          />
+        </div>
+      </div>
+      <div
+        class="ant-col ant-col-xs-24"
+      >
+        <div
+          class="ant-row ant-row-center"
+        >
+          <div
+            class="ant-space ant-space-vertical"
+          >
+            <div
+              class="ant-space-item"
+              style="margin-bottom: 8px;"
+            >
+              <div
+                class="ant-col ant-col-xs-24"
+                style="font-size: 13px;"
+              >
+                 
+              </div>
+            </div>
+            <div
+              class="ant-space-item"
+            >
+              <div
+                class="ant-col ant-col-xs-24"
+              >
+                <b />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+`;
+
+exports[`it should load the password strength checker should match the snapshot 1`] = `
+<section
+  class="ant-layout"
+>
+  <div
+    class="ant-row ant-row-middle"
+  >
+    <div
+      align="middle"
+      class="ant-col container ant-col-xs-12"
+    >
+      <div
+        class="ant-col ant-col-xs-9"
+        style="font-size: 20px; margin-bottom: 8%;"
+      >
+        <b>
+          Is your password strong enough?
+        </b>
+      </div>
+      <div
+        class="ant-col ant-col-xs-20"
+      >
+        <span
+          class="ant-input-affix-wrapper ant-input-password"
+          style="border: 1px solid;"
+        >
+          <input
+            action="click"
+            class="ant-input"
+            placeholder="Type a password"
+            type="password"
+            value=""
+          />
+          <span
+            class="ant-input-suffix"
+          >
+            <span
+              class="ant-input-password-icon"
+            >
+              Show
+            </span>
+          </span>
+        </span>
+      </div>
+      <div
+        class="ant-row ant-row-center"
+        xs="24"
+      >
+        <div
+          class="ant-col ant-col-xs-4"
+        >
+          <div
+            class="scorebar"
+            style="background: gray;"
+          />
+        </div>
+        <div
+          class="ant-col ant-col-xs-4"
+        >
+          <div
+            class="scorebar"
+            style="background: gray;"
+          />
+        </div>
+        <div
+          class="ant-col ant-col-xs-4"
+        >
+          <div
+            class="scorebar"
+            style="background: gray;"
+          />
+        </div>
+        <div
+          class="ant-col ant-col-xs-4"
+        >
+          <div
+            class="scorebar"
+            style="background: gray;"
+          />
+        </div>
+        <div
+          class="ant-col ant-col-xs-4"
+        >
+          <div
+            class="scorebar"
+            style="background: gray;"
+          />
+        </div>
+      </div>
+      <div
+        class="ant-col ant-col-xs-24"
+      >
+        <div
+          class="ant-row ant-row-center"
+        >
+          <div
+            class="ant-space ant-space-vertical"
+          >
+            <div
+              class="ant-space-item"
+              style="margin-bottom: 8px;"
+            >
+              <div
+                class="ant-col ant-col-xs-24"
+                style="font-size: 13px;"
+              >
+                 
+              </div>
+            </div>
+            <div
+              class="ant-space-item"
+            >
+              <div
+                class="ant-col ant-col-xs-24"
+              >
+                <b />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+`;
